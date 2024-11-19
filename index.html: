@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Informações do BTS</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Informações do BTS</h1>
+  </header>
+  <main>
+    <section class="sobre">
+      <h2>Sobre o BTS</h2>
+      <p>O BTS é um grupo sul-coreano de K-pop formado pela Big Hit Entertainment em 2013.</p>
+    </section>
+    <section class="membros">
+      <h2>Membros do BTS</h2>
+      <ul>
+        <li>
+          <img src="imagens/rm.jpg" alt="RM">
+          <h3>RM</h3>
+          <p>Kim Nam-joon, conhecido como RM, é o líder do BTS.</p>
+        </li>
+        <li>
+          <img src="imagens/jin.jpg" alt="Jin">
+          <h3>Jin</h3>
+          <p>Kim Seok-jin, conhecido como Jin, é um dos vocalistas do BTS.</p>
+        </li>
+        <li>
+          <img src="imagens/suga.jpg" alt="Suga">
+          <h3>Suga</h3>
+          <p>Min Yoon-gi, conhecido como Suga, é um dos rappers do BTS.</p>
+        </li>
+        <li>
+          <img src="imagens/j-hope.jpg" alt="J-Hope">
+          <h3>J-Hope</h3>
+          <p>Jung Ho-seok, conhecido como J-Hope, é um dos rappers do BTS.</p>
+        </li>
+        <li>
+          <img src="imagens/jimim.jpg" alt="Jimin">
+          <h3>Jimin</h3>
+          <p>Park Ji-min, conhecido como Jimin, é um dos vocalistas do BTS.</p>
+        </li>
+        <li>
+          <img src="imagens/v.jpg" alt="V">
+          <h3>V</h3>
+          <p>Kim Tae-hyung, conhecido como V, é um dos vocalistas do BTS.</p>
+        </li>
+        <li>
+          <img src="imagens/jungkook.jpg" alt="Jungkook">
+          <h3>Jungkook</h3>
+          <p>Jeon Jung-kook, conhecido como Jungkook, é o maknae (o mais jovem) do BTS.</p>
+        </li>
+      </ul>
+    </section>
+    <section class="discografia">
+      <h2>Discografia do BTS</h2>
+      <ul>
+        <li>
+          <h3>2 Cool 4 Skool</h3>
+          <p>2013</p>
+        </li>
+        <li>
+          <h3>O!RUL8,2?</h3>
+          <p>2013</p>
+        </li>
+        <li>
+          <h3>Skool Luv Affair</h3>
+          <p>2014</p>
+        </li>
+        <!-- Adicione mais álbuns aqui -->
+      </ul>
+    </section>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
